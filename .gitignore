@@ -1,0 +1,35 @@
+# Node modules
+node_modules/
+
+# Environment variables
+.env
+
+# Compiled output
+/build
+/public
+.DS_Store
+
+# Logs
+*.log
+
+# IDE files
+.vscode/
+.idea/
+
+# Dependency directories
+pids
+logs
+results
+
+# Yarn integrity file
+.yarn-integrity
+
+# npm package-lock.json file
+package-lock.json
+
+# Editor specific files
+*.sublime-project
+*.sublime-workspace
+
+# Mac OSX specific files
+.DS_Store

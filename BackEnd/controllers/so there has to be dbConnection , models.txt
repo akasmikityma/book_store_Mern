@@ -1,0 +1,7 @@
+so there has to be dbConnection , models, controllers , routes >> these are the basic structure>.
+
+1. first created a database for the books 
+2. getting the string he connected to the database using mongoose.connect  
+3. creates schema and model for the books database 
+4. in the controllers he made a post request to a path that is getting req.body and filling those params and then saving that very document..
+5. this way he makes put for update , delete for deleting a document and get fot fetching the documents>>
